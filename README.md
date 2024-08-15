@@ -5,6 +5,6 @@ Este repositório contém:
 - Ferramentas
 - Rascunhos
 - Conteúdos
-- o que a imaginação permitir
 
+Atualizamos a Wiki com os temas que consideramos relevantes.
 O Clube de Escritores é uma iniciativa do Chá da Tarde Seguro! Então peguem suas canecas e vamos nessa! 
